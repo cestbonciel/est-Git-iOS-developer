@@ -316,7 +316,7 @@ let people: [SelfIntroduction] = [
         mbti: "INTP",
         strength: "꼼꼼함, 협업 소통 중요, UIUX 변화와 차이에 예민한 편",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!",
+        etc: "열심히 수료하고 올해 취업하겠습니다!",
         job: "카카오 - iOS 개발자"
     ),
     SelfIntroduction(
