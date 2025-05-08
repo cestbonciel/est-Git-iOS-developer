@@ -310,14 +310,14 @@ let people: [SelfIntroduction] = [
         job: "배달의민족 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "김서현",
+        name: " 김서현",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "음악 감상, 여행, 독서 등",
+        hobby: "음악 감상, 여행, 독서, 수영 등",
         mbti: "INTP",
-        strength: "끈기와 실행력",
+        strength: "꼼꼼함, 협업 소통 중요, UIUX에 예민한 편",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!",
-        job: "마이크로소프트 - iOS 개발자"
+        job: "카카오 - iOS 개발자"
     ),
     SelfIntroduction(
         name: "김종성",
