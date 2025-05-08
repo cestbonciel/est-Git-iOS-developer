@@ -337,7 +337,7 @@ let people: [SelfIntroduction] = [
         strength: "끈기와 성실함",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!!!",
-        job: "삼성 - iOS 개발자"
+        job: "쿠팡 - iOS 개발자"
     ),
     SelfIntroduction(
         name: "이준일",
