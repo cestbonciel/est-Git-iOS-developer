@@ -311,7 +311,7 @@ let people: [SelfIntroduction] = [
     ),
     SelfIntroduction(
         name: " 김서현 ",
-        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
+        trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여(수정-8,May,2025,17:29pm)",
         hobby: "음악 감상, 여행, 독서, 수영 등",
         mbti: "INTP",
         strength: "꼼꼼함, 협업 소통 중요, UIUX 변화와 차이에 예민한 편",
