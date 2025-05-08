@@ -334,7 +334,7 @@ let people: [SelfIntroduction] = [
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
         hobby: "음악 감상, 운동",
         mbti: "ISFP / ISTP",
-        strength: "끈기와 성실함",
+        strength: "끈기와 성실함!!",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!!!",
         job: "쿠팡 - iOS 개발자"
